@@ -1,11 +1,11 @@
 {
-  "name": "Landmann",
-  "description": "Die Landmann KI von Lord Pupskopf",
+  "name": "Händler",
+  "description": "Die Händler KI von Lord Pupskopf",
   "author": "Lord Pupskopf",
   "link": "",
   "version": "3.0.0",
   "defaultLang": "de",
-  "supportedLang": ["de", "en"],
+  "supportedLang": ["de"],
   "switched": {
     "binks": true,
     "speech": true,
@@ -16,4 +16,5 @@
     "lines": true,
     "portrait": true
   }
+
 }
