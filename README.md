@@ -5,4 +5,6 @@ Whilst this AI was made with no foreign help, my expertise in AI creation has be
 No, the AIV of the AI is not using any exploits, however it is using the reliable and deleteable dummy steps I found using Cheatengine. These steps do not appear in any kind within the game, nor do they interfere with other AIs.
 
 Fav Maps:
-1.) AI Dune
+1.) AI Dune 
+2.) Fissure
+
