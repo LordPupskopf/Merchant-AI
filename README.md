@@ -11,6 +11,7 @@ Seine Karawansereien, über die Wüste verstreut, sind Orte der Ruhe und des Han
 Und er ist nicht allein. Seine Lakeien tauchen auf und verschwinden in den Dünen und hinter den Felsen, bevor man sie überhaupt gesehen hat – wie die Schatten im flirrenden Licht beschatten sie Euch. Sie greifen nicht direkt an, sondern lassen Euch leiden: rauben Euch das Wasser, stehlen Eure Vorräte und treiben Euch in den Wahnsinn.
 Der Händler kämpft nicht mit dem Schwert, sondern mit Geduld. Er lässt die Wüste selbst zu seiner Waffe werden. Wie ein Geier wacht er über Euch – und dann, wenn nichts mehr übrig ist als Angst und Staub, senkt er sich auf Euch herab.
 Er ist kein Krieger und noch weniger ein Fürst. Doch in der Wüste ist er derjeniger, welcher über Euer Schicksal entscheidet.
+Im Endeffekt will er aber nur Euer Bestes, Euer Geld.
 
 Fav Maps:
 1.) AI Dune 
